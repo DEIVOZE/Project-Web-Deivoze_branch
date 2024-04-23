@@ -1,0 +1,4 @@
+SQLAlchemy
+Werkzeug
+WTForms
+Flask
