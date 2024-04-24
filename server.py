@@ -1,5 +1,3 @@
-import json
-
 from flask import Flask, render_template, redirect, request, session
 from data import db_session
 from data.categories import Category
